@@ -1,1 +1,1 @@
-Un semplice Form che calcola il segno zodiacale
+Esercizio: Un semplice Form che calcola il segno zodiacale
