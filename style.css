@@ -77,15 +77,15 @@
             text-align: center;
             word-wrap: break-word; /* In caso di testo lungo */
         }
-        .footer {
-            display: flex;
+        /* .footer {
+            display: flex; 
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            text-align: center;
+             text-align: center; 
             margin-top: 20px;
-            color: #555;
+            color: #cb0909;
             font-size: 0.9em;
-        }
+        } */
 
        
