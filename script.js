@@ -40,7 +40,7 @@ function calcolaSegnoZodiacale() {
             } else if ((mese === 2 && giorno >= 19) || (mese === 3 && giorno <= 20)) {
                 segnoZodiacale = 'Pesci';
             } else {
-                segnoZodiacale = 'Data non valida o non rientra in un segno noto.';
+                segnoZodiacale = 'Data non valida o non rientra in un segno conosciuto.';
             }
 
             resultBox.innerHTML = `Ciao ${nome}, il tuo segno zodiacale è: <strong>${segnoZodiacale}</strong>.`;
